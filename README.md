@@ -2,7 +2,7 @@
 
 Voor de Performance audit heb ik de website van [Basic-Fit](https://www.basic-fit.com/nl-nl/home) gekozen. Hier kunnen klanten een lidmaadschap aanschaffen om te kunnen sporten.
 
-[WiKi](https://www.basic-fit.com/nl-nl/home)
+[WiKi](https://github.com/WebTins/performance-audit/wiki/Performance-Audit-%E2%80%90-Basic-Fit)
 
 <img width="999" height="457" alt="image" src="https://github.com/user-attachments/assets/4498f9eb-d1d3-4dcd-bd99-60d5482f1b2a" />
 
